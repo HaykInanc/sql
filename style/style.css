@@ -1,0 +1,53 @@
+body, h1, h2, h3, p, li{
+    color:#34495e;
+}
+
+.icon{
+    width: 50px;
+}
+
+.point-icon-box{
+    display: flex;
+    justify-content: center;
+}
+
+.point-icon{
+    width: 150px;
+    padding: 40px;
+}
+
+.card{
+    margin-bottom: 40px;
+}
+
+li, p{
+    font-size: 18px;
+}
+
+a.btn{
+    padding: 5px 40px;
+}
+
+.copyright{
+    color: #545C71;
+}
+
+section.gray{
+    background-color: #f8f9fa;
+}
+
+.btn.btn-success{
+    background-color: #f1c40f;
+    color: #34495e;
+    font-size: 20px;
+    border: none;
+}
+
+.btn.btn-success:hover{
+    background-color: #34495e;
+    color: #f1c40f;
+}
+
+img{
+    border-radius: 10px;
+}
