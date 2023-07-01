@@ -51,3 +51,12 @@ section.gray{
 img{
     border-radius: 10px;
 }
+
+.social{
+    display: flex;
+    gap: 20px;
+}
+
+.social img{
+    width: 40px;
+}
